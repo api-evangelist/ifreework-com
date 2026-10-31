@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ifreework-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ifreework.com/
+No public website or documentation could be identified for ifreework-com; attempts to access https://ifreework.com/ returned a personal developer page unrelated to the company. No API documentation, developer portal, or other corporate web presence was discovered.
+
+**Areas:** Company · API · Stub · Harvest · Unknown
+
+## ifreework-com on APIs.io
+
+Everything profiled for ifreework-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ifreework-com/](https://apis.io/providers/ifreework-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [ifreework-com MCP API](https://apis.io/apis/ifreework-com/ifreework-com-mcp-api/) — The Mcp API from ifreework-com — 1 operation(s) for mcp.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Ifreework Com Agentic Access](https://apis.io/agentic-access/ifreework-com/ifreework-com-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [JsonRpcRequest](https://apis.io/schemas/ifreework-com/ifreework-com-json-rpc-request/)
+- [JsonRpcResponse](https://apis.io/schemas/ifreework-com/ifreework-com-json-rpc-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Ifreework Com Context](https://apis.io/jsonld/ifreework-com/ifreework-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Ifreework Com Openapi Overlay](https://apis.io/overlays/ifreework-com/ifreework-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ifreework-com API Rules](https://apis.io/rules/ifreework-com/ifreework-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ifreework Com Domain Security](https://apis.io/security/ifreework-com/ifreework-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ifreework.com/)
+- [Blog](https://ifreework.com/blog/)
+- [GitHub](https://github.com/userifw)
+
+## API Evangelist rating
+
+**Kin Score 30.4** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 49.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 8.8 |
+| Access clarity | 0.0 |
+
+**Agent readiness 37.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ifreework-com/](https://apis.io/providers/ifreework-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ifreework-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ifreework-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
